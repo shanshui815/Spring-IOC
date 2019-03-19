@@ -7,9 +7,13 @@
 
 
 
+![例子](https://github.com/zhangxixian/Spring-IOC/blob/master/img/Spring-IOC-img1.png)
+
 * 第一阶段（代码里未实现）
 
 两个实现类；一个业务逻辑类
+
+
 
 * 第二阶段
 
