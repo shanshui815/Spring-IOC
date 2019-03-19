@@ -16,7 +16,9 @@
 * 第二阶段
 
 一个接口；两个实现类；一个业务逻辑类；
+
 ![第二阶段](https://github.com/zhangxixian/Spring-IOC/blob/master/img/Spring-IOC-img2.png)
+
 * 第三阶段
 
 一个接口；两个实现类；一个业务逻辑类；一个容器类；
@@ -34,12 +36,13 @@
 
 	去掉ReportService对Container依赖
 
+![第三阶段](https://github.com/zhangxixian/Spring-IOC/blob/master/img/Spring-IOC-img3.png)
 
 * 第四阶段 
 
 一个接口；两个实现类；一个业务逻辑类；一个容器类；一个服务定位器；
 
-
+![第四阶段](https://github.com/zhangxixian/Spring-IOC/blob/master/img/Spring-IOC-img4.png)
 
 
 
