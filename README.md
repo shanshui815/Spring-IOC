@@ -24,10 +24,12 @@
 	容器类用于获取两个实现类，业务逻辑类里就不用分别去实例化个实现类了选择不同的Generator不需要修改Service
 	
 >>* 缺点
+
 	1. Container对所管理的所有组件产生了依赖
 	2. ReportService对Container依赖，因为其封装有查找逻辑，所以在重用之前还要修改
 	
 >>* 目标
+
 	去掉ReportService对Container依赖
 
 
